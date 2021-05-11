@@ -1,10 +1,9 @@
-
 const Productdescscreen = () => {
-    return (
-        <div>
-            
-        </div>
-    )
-}
+  return (
+    <div>
+      <h1>Product Description page</h1>
+    </div>
+  );
+};
 
-export default Productdescscreen
+export default Productdescscreen;

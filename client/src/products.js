@@ -1,5 +1,6 @@
 const products = [
   {
+    id: 1,
     rating: 5,
     reviews: [],
     price: 15200,
@@ -11,6 +12,7 @@ const products = [
       ' Rolex uses Oystersteel for its steel watch cases. Specially developed by the brand, Oystersteel belongs to the 904L steel family, alloys most commonly used in high-technology and in the aerospace and chemical industries, where maximum resistance to corrosion is essential. Oystersteel is extremely resistant, offers an exceptional finish once polished and maintains its beauty even in the harshest environments.',
   },
   {
+    id: 2,
     rating: 5,
     reviews: [],
     price: 18700,
@@ -22,6 +24,7 @@ const products = [
       'The Rolex fluted bezel is a mark of distinction. Originally, the fluting of the Oyster bezel had a functional purpose: it served to screw the bezel onto the case helping to ensure the waterproofness of the watch.The sunray finish on Rolex dials is a predominant method in watchmaking of achieving pure metallic colour dials such as shades of silver grey, rhodium or ruthenium. Silver-plating is mostly used as a base layer for the sunray finish, where further colour is added to the prepared dial. Sometimes colours such as champagne are achieved through electroplating with more than half a dozen different metals.',
   },
   {
+    id: 3,
     rating: 4.5,
     reviews: [],
     price: 12000,
@@ -33,6 +36,7 @@ const products = [
       'The sunray finish on Rolex dials is a predominant method in watchmaking of achieving pure metallic colour dials such as shades of silver grey, rhodium or ruthenium. Silver-plating is mostly used as a base layer for the sunray finish, where further colour is added to the prepared dial. Sometimes colours such as champagne are achieved through electroplating with more than half a dozen different metals.',
   },
   {
+    id: 4,
     rating: 4.5,
     reviews: [],
     price: 17600,
@@ -44,6 +48,7 @@ const products = [
       'Gold is coveted for its lustre and nobility. Steel reinforces strength and reliability. Together, they harmoniously combine the best of their properties. A true Rolex signature, Rolesor has featured on Rolex models since the early 1930s, and was trademarked as a name in 1933. It is one of the prominent pillars of the Oyster collection.',
   },
   {
+    id: 5,
     rating: 5,
     reviews: [],
     price: 800,
@@ -55,6 +60,7 @@ const products = [
       'The Rolex fluted bezel is a mark of distinction. Originally, the fluting of the Oyster bezel had a functional purpose: it served to screw the bezel onto the case helping to ensure the waterproofness of the watch. It was therefore identical to the fluting on the case back, which was also screwed onto the case for waterproofness, using specific Rolex tools. Over time, the fluting became an aesthetic element, a genuine Rolex signature feature. Today the fluted bezel is a mark of distinction, always in gold.',
   },
   {
+    id: 6,
     rating: 5,
     reviews: [],
     price: 13600,
@@ -66,6 +72,7 @@ const products = [
       'The sunray finish on Rolex dials is a predominant method in watchmaking of achieving pure metallic colour dials such as shades of silver grey, rhodium or ruthenium. Silver-plating is mostly used as a base layer for the sunray finish, where further colour is added to the prepared dial. Sometimes colours such as champagne are achieved through electroplating with more than half a dozen different metals.',
   },
   {
+    id: 7,
     rating: 5,
     reviews: [],
     price: 22600,
@@ -77,6 +84,7 @@ const products = [
       'Gem-setters, like sculptors, finely carve the precious metal to hand-shape the seat in which each gemstone will be perfectly lodged. With the art and craft of a jeweller, the stone is placed and meticulously aligned with the others, then firmly secured in its gold or platinum setting. Besides the intrinsic quality of the stones, several other criteria contribute to the beauty of Rolex gem-setting: the precise alignment of the height of the gems, their orientation and position, the regularity, strength and proportions of the setting as well as the intricate finishing of the metalwork. A sparkling symphony to enhance the watch and enchant the wearer.',
   },
   {
+    id: 8,
     rating: 5,
     reviews: [],
     price: 16900,
@@ -88,6 +96,7 @@ const products = [
       'The Rolex fluted bezel is a mark of distinction. Originally, the fluting of the Oyster bezel had a functional purpose: it served to screw the bezel onto the case helping to ensure the waterproofness of the watch. It was therefore identical to the fluting on the case back, which was also screwed onto the case for waterproofness, using specific Rolex tools. Over time, the fluting became an aesthetic element, a genuine Rolex signature feature. Today the fluted bezel is a mark of distinction, always in gold.',
   },
   {
+    id: 9,
     rating: 4.5,
     reviews: [],
     price: 11250,
@@ -99,6 +108,7 @@ const products = [
       'The sunray finish on Rolex dials is a predominant method in watchmaking of achieving pure metallic colour dials such as shades of silver grey, rhodium or ruthenium. Silver-plating is mostly used as a base layer for the sunray finish, where further colour is added to the prepared dial. Sometimes colours such as champagne are achieved through electroplating with more than half a dozen different metals.',
   },
   {
+    id: 10,
     rating: 5,
     reviews: [],
     price: 11250,
@@ -110,6 +120,7 @@ const products = [
       'Gem-setters, like sculptors, finely carve the precious metal to hand-shape the seat in which each gemstone will be perfectly lodged. With the art and craft of a jeweller, the stone is placed and meticulously aligned with the others, then firmly secured in its gold or platinum setting. Besides the intrinsic quality of the stones, several other criteria contribute to the beauty of Rolex gem-setting: the precise alignment of the height of the gems, their orientation and position, the regularity, strength and proportions of the setting as well as the intricate finishing of the metalwork. A sparkling symphony to enhance the watch and enchant the wearer.',
   },
   {
+    id: 11,
     rating: 4.5,
     reviews: [],
     price: 9600,
@@ -121,6 +132,7 @@ const products = [
       'Rolex uses Oystersteel for its steel watch cases. Specially developed by the brand, Oystersteel belongs to the 904L steel family, alloys most commonly used in high-technology and in the aerospace and chemical industries, where maximum resistance to corrosion is essential. Oystersteel is extremely resistant, offers an exceptional finish once polished and maintains its beauty even in the harshest environments.',
   },
   {
+    id: 12,
     rating: 5,
     reviews: [],
     price: 18200,
