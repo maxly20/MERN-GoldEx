@@ -3,7 +3,7 @@ const Navbar = () => {
   return (
     <div>
       <nav className='navbar navbar-expand-lg navbar-light bg-light'>
-        <Link className='navbar-brand' href='#'>
+        <Link className='navbar-brand' to='/'>
           Goldex
         </Link>
         <button
