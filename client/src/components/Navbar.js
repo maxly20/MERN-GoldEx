@@ -4,7 +4,7 @@ const Navbar = () => {
     <div>
       <nav className='navbar navbar-expand-lg navbar-light bg-light'>
         <Link className='navbar-brand' href='#'>
-          Intelli Soft
+          Goldex
         </Link>
         <button
           className='navbar-toggler'
