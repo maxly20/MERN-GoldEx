@@ -1,7 +1,10 @@
+import Navbar from './components/Navbar';
+// import bootstrap from '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
 const App = () => {
   return (
     <div className='App'>
-      <h1>HELLLOOOO</h1>
+      <Navbar />
     </div>
   );
 };
