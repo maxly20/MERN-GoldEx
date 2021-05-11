@@ -1,10 +1,14 @@
 import products from '../products';
+import Product from '../components/Product';
 
 const Homescreen = () => {
   return (
     <div>
-      <h1>This is the Homescreen</h1>
-      <h1>{products.length}</h1>
+      <div className='row justify-content-center'>
+        {products.map(product => {
+          return <Product product={product} />;
+        })}
+      </div>
     </div>
   );
 };
