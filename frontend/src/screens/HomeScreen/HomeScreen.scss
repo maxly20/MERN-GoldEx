@@ -15,19 +15,19 @@
   grid-template-columns: repeat(4, 1fr);
 }
 
-@media (max-width: 1232px) {
+@media (max-width: 1230px) {
   .homescreen__products {
     grid-template-columns: repeat(3, auto);
   }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 940px) {
   .homescreen__products {
     grid-template-columns: repeat(2, auto);
   }
 }
 
-@media (max-width: 630px) {
+@media (max-width: 620px) {
   .homescreen__products {
     grid-template-columns: 1fr;
   }
