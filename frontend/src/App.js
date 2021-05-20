@@ -1,13 +1,15 @@
 import { Route, Switch } from 'react-router-dom';
-
+// SCREENS
 import HomeScreen from './screens/HomeScreen/HomeScreen';
 import ProductScreen from './screens/ProductScreen/ProductScreen';
 import CartScreen from './screens/CartScreen/CartScreen';
+// COMPONENTS
+import Navbar from './components/Navbar/Navbar';
 
 const App = () => {
   return (
     <>
-      {/* Navbar */}
+      <Navbar />
       {/* SideDrawer  */}
       {/* Backdrop  */}
       <main>
