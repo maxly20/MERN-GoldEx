@@ -2,7 +2,8 @@
 
 A simple website built with React to search Anime, using jikan API.
 
-Deployed live at : 
+Deployed live at : https://maxly-animedb.netlify.app
+
 
 ![](SitePreview.png)
 
