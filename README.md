@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# ANIME DATABASE - REACT WEBSITE
+
+A simple website built with React to search Anime, using jikan API.
+
+Deployed live at : 
+
+![](SitePreview.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
